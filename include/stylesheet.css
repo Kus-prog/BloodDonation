@@ -1,0 +1,93 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body {
+  font-family: "Avenir Next";
+  background-image: url("save1.jpg")
+}
+
+li {
+  list-style: none;
+}
+.header{
+	background-color:#b4b4b4;
+	height:90px;
+  text-shadow: 2px 2px 4px #000000;
+}
+.header-logo {
+  color:black;
+  float: left;
+  font-size: 35px;
+  padding: 20px 40px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.header-list li {
+  color:black;
+	font-size:25px;
+  float: left;
+  padding: 33px 20px;
+}
+.main {
+	
+  padding: 100px 100px;
+  height:500px;
+}
+.head1{
+  padding:35px 20px;
+
+}
+
+.head{
+	padding:35px 20px;
+  font-size: 20px;
+	
+}
+.button {
+  background-color: #DC143C; 
+  border: none;
+  color: white;
+  margin-left: 40px;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button1 {
+  background-color: #DC143C; 
+  border: none;
+  color: white;
+  margin-left: 40px;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+
+
+
+
+.footer {
+  background-color: #b4b4b4;
+  color: #fff;
+  height: 250px;
+  padding: 40px 20px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
